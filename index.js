@@ -1,6 +1,4 @@
-const variable = "Hello";
-
-const obj = {
+export default {
     name: "Fatih",
     lastName: "Oz",
     fieldWithVar: `${variable}`
